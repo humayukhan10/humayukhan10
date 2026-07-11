@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🐍 Contribution Snake
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Hi+I'm+Humayu+Khan;B.Tech+Agricultural+Information+Technology+Student;Full+Stack+Web+Developer;Laravel+%7C+PHP+%7C+Python+Learner)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/humayukhan10/humayukhan10/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
