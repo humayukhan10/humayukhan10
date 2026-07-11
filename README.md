@@ -23,7 +23,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://linkedin.com/in/humayunkhanit" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -31,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:humayupathan80@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
@@ -46,14 +46,7 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=humayukhan10&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayukhan10&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -63,7 +56,6 @@
 
 ---
 
-## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://github.com/humayukhan10/humayukhan10/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
@@ -81,20 +73,7 @@ Cab booking system developed with **ASP.NET MVC**, **Bootstrap**, and **SQL Serv
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=humayukhan10&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
 
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=humayukhan10&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
