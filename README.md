@@ -1,177 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Humayun%20Khan&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=PHP%20Developer%20|%20Laravel%20Learner%20|%20B.Tech%20AIT%20Student&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Humayu%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Agricultural%20Information%20Technology%20Student%20|%20Laravel%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;PHP+Developer;Laravel+Learner;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+<a href="https://www.linkedin.com/in/humayunkhanit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:humayupathan80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/humayukhan10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<p>
+</div>
 
-<a href="https://github.com/humayukhan10">
-<img src="https://img.shields.io/github/followers/humayukhan10?style=for-the-badge&logo=github"/>
-</a>
+<br>
 
-<a href="https://github.com/humayukhan10?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge"/>
-</a>
+# 🚀 About Me
 
-<a href="mailto:humayupathan80@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+I'm a **B.Tech Agricultural Information Technology** student passionate about **Full Stack Web Development**. I enjoy building real-world web applications using **Laravel, PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript** while continuously improving my programming and problem-solving skills.
 
-<a href="https://www.linkedin.com/in/humayunkhanit">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+- 🎓 B.Tech Agricultural Information Technology (2023–2027)
+- 🌱 Currently learning **Laravel, PHP, JavaScript, Python & MySQL**
+- 💻 Interested in **Full Stack Web Development**
+- 🚀 Building practical projects to strengthen my portfolio
+- 🤝 Open to collaborating on Open Source and Web Development projects
 
-</p>
+---
+
+# 💼 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **SmartTech** | E-commerce web application for electronic products with user authentication, product management, shopping cart, order management, and admin dashboard. | `ASP.NET` `C#` `SQL Server` `Bootstrap` |
+| **Click2Go** | Online cab booking system with ride booking, driver assignment, fare calculation, booking history, and admin dashboard. | `ASP.NET MVC` `C#` `SQL Server` `Bootstrap` |
+| **Student Leave Management System** | Web-based leave management system where students can submit leave requests, faculty can review applications, and administrators can manage users and leave records. | `PHP` `MySQL` `Bootstrap` |
+| **AgriRental** | Agriculture equipment rental platform that allows farmers to browse, rent, and manage farming equipment with secure booking and inventory management. | `PHP` `MySQL` `Bootstrap` |
+
+---
+
+# 🧰 Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=A8B9CC) ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=777BB4) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=7952B3) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat-square&logo=dotnet&logoColor=512BD4) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC) |
+
+---
+
+# 🌱 Current Focus
+
+| Focus | Status |
+|---|---|
+| Laravel Development | 🟢 Learning |
+| Full Stack Web Development | 🟢 Active |
+| Open Source Contributions | 🟡 Improving |
+| Internship Opportunities | 🔵 Open |
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=humayukhan10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayukhan10&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=humayukhan10&theme=tokyonight&hide_border=true" width="60%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=humayukhan10&theme=darkhub&no-frame=true&row=1&margin-w=15" width="90%"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-🎓 **B.Tech Agricultural Information Technology** Student
-
-💻 Passionate about **PHP**, **Laravel**, and **Full Stack Web Development**
-
-🌱 Currently learning
-
-- Laravel
-- JavaScript
-- Python
-- MySQL
-- Git & GitHub
-
-🚀 I enjoy building real-world web applications and continuously improving my development skills.
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Technology |
-|----------|-------------|------------|
-| 🚜 **AgriRental** | Agriculture equipment rental platform with equipment management, bookings, inventory, farmer dashboard, and admin panel. | PHP • MySQL • Bootstrap |
-| 🎓 **Student Leave Management System** | Complete leave management system where students apply for leave, faculty review requests, and administrators manage records. | PHP • MySQL • Bootstrap |
-| 🛒 **SmartTech** | Electronics e-commerce website with authentication, product management, shopping cart, and admin dashboard. | ASP.NET • SQL Server • Bootstrap |
-| 🚖 **Click2Go** | Online cab booking application featuring ride booking, driver assignment, fare calculation, and booking management. | ASP.NET MVC • SQL Server |
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
----
-
-## Backend
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet)
-
----
-
-## Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-
----
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 📈 GitHub Statistics
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=humayukhan10&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayukhan10&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=humayukhan10&theme=tokyonight&hide_border=true"/>
+<img src="https://github.com/humayukhan10/humayukhan10/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📫 Connect With Me
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=humayukhan10&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-```text
-Laravel              █████████░░ 90%
-
-PHP                  ██████████ 100%
-
-Git & GitHub         █████████░ 90%
-
-JavaScript           ███████░░░ 70%
-
-Python               ██████░░░░ 60%
-```
-
----
-
-# 📜 Certifications
-
-✅ HackerRank SQL
-
-✅ HackerRank Python
-
-✅ freeCodeCamp Responsive Web Design
-
-🔄 Google AI Essentials *(Learning)*
-
-🔄 Git & GitHub *(Learning)*
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:humayupathan80@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/humayunkhanit">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:humayupathan80@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/humayukhan10">
@@ -182,28 +102,11 @@ Python               ██████░░░░ 60%
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://github.com/humayukhan10/humayukhan10/blob/output/github-contribution-grid-snake-dark.svg"/>
+### ⭐ "Keep Learning, Keep Building, Keep Growing."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-## *"Keep Learning • Keep Building • Keep Growing 🚀"*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
-
-</div>
+  
